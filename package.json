@@ -1,0 +1,16 @@
+{
+  "name": "arena-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.16.0",
+    "typescript": "^5.7.2"
+  }
+}
